@@ -117,7 +117,7 @@ for link in links:
 
 ## 使用自定义方法和代理数组轮换代理
 
-[![推广](https://github.com/bright-cn/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/proxy-types/residential-proxies) 
+[![推广](https://github.com/bright-cn/Awesome-Web-Scraping/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://www.bright.cn/proxy-types/residential-proxies) 
 
 轮换代理有助于绕过网站在收到来自同一 IP 地址的大量请求时施加的限制。
 
