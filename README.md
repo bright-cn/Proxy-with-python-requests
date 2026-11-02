@@ -40,8 +40,8 @@
 请按以下步骤操作：
 
 1. 在 Python 脚本中导入 Requests 和 Beautiful Soup 软件包。
-2. 创建一个名为 `proxies` 的目录，用于存放代理服务器信息。
-3. 在 `proxies` 目录中，为代理 URL 定义 HTTP 和 HTTPS 连接。
+2. 创建一个名为 `proxies` 的字典，用于存放代理服务器信息。
+3. 在 `proxies` 字典中，为代理 URL 定义 HTTP 和 HTTPS 连接。
 4. 定义一个 Python 变量，用于设置你想从中抓取数据的网页 URL。使用 `https://www.bright.cn/`。
 5. 使用 `request.get()` 方法向网页发送 GET 请求，该方法接受两个参数：网站 URL 和代理。响应将存储在 `response` 变量中。
 6. 将 `response.content` 和 `html.parser` 作为参数传递给 `BeautifulSoup()` 方法，以采集链接。
