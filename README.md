@@ -1,7 +1,7 @@
 # 在 Python Requests 中使用代理
 
 
-[![推广](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://www.bright.cn/proxy-types/residential-proxies) 
+[![推广](https://github.com/bright-cn/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo%20%281%29.png)](https://www.bright.cn/proxy-types/residential-proxies) 
 
 本指南将介绍如何在 Python requests 中使用代理，尤其是用于[网页爬虫](https://www.bright.cn/blog/how-tos/what-is-web-scraping)，通过更改 IP 和位置来[绕过网站限制](https://brightdata.com/blog/proxy-101/how-to-bypass-an-ip-ban)：
 
